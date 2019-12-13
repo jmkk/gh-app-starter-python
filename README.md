@@ -4,7 +4,7 @@ This app is meant to serve as an application to help you onboard to the GitHub e
 
 ## Getting Started
 
-### Initial Project Setup
+### Initial Project Setuptest
 
 - Clone/Fork this repo
 - Generate your virutal environment
